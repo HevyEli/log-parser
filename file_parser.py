@@ -23,38 +23,26 @@ def connect_to_db():
 
 
 def insert_logs():
-    events = []
     logger.info(f"entering {insert_logs.__name__}")
+    # events = []
     """ check if output dir exists if not create directory"""
     dir_isExist = os.path.exists(output_files_directory)
     if dir_isExist != True:
-        logger.info(f"Directory: {output_files_directory} does not exist, will be created")
         os.mkdir(output_files_directory)
-    else: 
-        logger.info(f"Directory {output_files_directory} exists")
+
+    conn = create_connection(sqlite3_db_file)
+    cursor = conn.cursor()
+    insert_statement = "insert into events (event_date, level, file_name, event_message) values (?, ?, ?, ?)"
 
     with open(read_file, mode='r') as input_file:
-        logger.info(f"Reading file {read_file}")
         for line in input_file:
-                # logger.info(line.strip().split(" || "))
-                with open(split_out, mode='a') as output_file:
-                    # event_list = line.split(": ||")
-                    event_list = line.split(": || ", 4 )
-                    events = (f"{event_list}\n")
-                    output_file.write(f"{events}")
-                    rec = events.split(', ')
-                    print(rec)
-                    """ inserting records into DB """
-                    conn = create_connection(sqlite3_db_file)
-                    insert_statement = " insert into events ( level, file_name, event_message ) values ('$s', '$s', '$s') "
-                    vals = rec
-                    conn.execute(insert_statement, vals[0], vals[1], vals[3])
-                    #conn = cursor.execute("select * from events")
-                    conn.commit()
-                    conn.close()
-
-                    # input_file.close()
-                    return events
+            event_list = line.strip().split(" || ")
+            if len(event_list) == 4:
+                level, file_name, _, event_message = event_list
+                cursor.execute(insert_statement, (datetime.now(), level, file_name, event_message))
+    conn.commit()
+    cursor.close()
+    conn.close()
     logger.info(f"exiting {insert_logs.__name__}")
 
 
@@ -75,6 +63,3 @@ if __name__ == '__main__':
 
     connect_to_db()
     insert_logs()
-
-    dada = insert_logs()
-    # print(f"lala {dada[]}")
