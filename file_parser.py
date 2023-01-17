@@ -46,6 +46,7 @@ def insert_logs():
     logger.info(f"exiting {insert_logs.__name__}")
 
 
+
 if __name__ == '__main__':
 
     current_time = datetime.now()
