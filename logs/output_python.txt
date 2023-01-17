@@ -1,0 +1,873 @@
+INFO: file name: test.py.<module>: line 79 date: 2023-01-11 13:08:44,025: program started at: 2023-01-11-13:08:44
+INFO: file name: test.py.check_directory: line 28 date: 2023-01-11 13:08:44,026: entering check_directory
+INFO: file name: test.py.check_directory: line 29 date: 2023-01-11 13:08:44,026: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:08:44,027: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 37 date: 2023-01-11 13:08:44,028: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 43 date: 2023-01-11 13:08:44,031: entering read_file
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:08:44,031: reading file: cities.txt 
+
+INFO: file name: test.py.<module>: line 79 date: 2023-01-11 13:09:06,884: program started at: 2023-01-11-13:09:06
+INFO: file name: test.py.check_directory: line 28 date: 2023-01-11 13:09:06,885: entering check_directory
+INFO: file name: test.py.check_directory: line 29 date: 2023-01-11 13:09:06,885: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:09:06,886: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 37 date: 2023-01-11 13:09:06,886: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 43 date: 2023-01-11 13:09:06,887: entering read_file
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:09:06,887: reading file: ../cities.txt 
+
+INFO: file name: test.py.<module>: line 79 date: 2023-01-11 13:09:37,888: program started at: 2023-01-11-13:09:37
+INFO: file name: test.py.check_directory: line 28 date: 2023-01-11 13:09:37,889: entering check_directory
+INFO: file name: test.py.check_directory: line 29 date: 2023-01-11 13:09:37,889: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:09:37,890: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 37 date: 2023-01-11 13:09:37,890: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 43 date: 2023-01-11 13:09:37,891: entering read_file
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:09:37,891: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.<module>: line 88 date: 2023-01-11 13:11:30,071: program started at: 2023-01-11-13:11:30
+INFO: file name: test.py.check_directory: line 28 date: 2023-01-11 13:11:30,072: entering check_directory
+INFO: file name: test.py.check_directory: line 29 date: 2023-01-11 13:11:30,072: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:11:30,073: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 37 date: 2023-01-11 13:11:30,073: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 43 date: 2023-01-11 13:11:30,074: entering read_file
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:11:30,075: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 50 date: 2023-01-11 13:11:30,075: Directory: /mnt/c/Users/eliasm1/Documents/learn/python/output does not exist, will be created
+INFO: file name: test.py.read_file: line 58 date: 2023-01-11 13:11:30,083: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 68 date: 2023-01-11 13:11:30,088: entering create_files
+INFO: file name: test.py.create_files: line 75 date: 2023-01-11 13:11:30,089: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 81 date: 2023-01-11 13:11:30,091: creating file: Halifax-2023-01-11-13:11:30.txt
+INFO: file name: test.py.create_files: line 81 date: 2023-01-11 13:11:30,096: creating file: Toronto-2023-01-11-13:11:30.txt
+INFO: file name: test.py.create_files: line 81 date: 2023-01-11 13:11:30,104: creating file: Vancouver-2023-01-11-13:11:30.txt
+INFO: file name: test.py.create_files: line 81 date: 2023-01-11 13:11:30,109: creating file: Munich-2023-01-11-13:11:30.txt
+INFO: file name: test.py.create_files: line 81 date: 2023-01-11 13:11:30,116: creating file: Sydny-2023-01-11-13:11:30.txt
+INFO: file name: test.py.create_files: line 81 date: 2023-01-11 13:11:30,122: creating file: Tehran-2023-01-11-13:11:30.txt
+INFO: file name: test.py.create_files: line 81 date: 2023-01-11 13:11:30,128: creating file: Albany-2023-01-11-13:11:30.txt
+INFO: file name: test.py.create_files: line 85 date: 2023-01-11 13:11:30,133: exiting create_files
+INFO: file name: test.py.<module>: line 92 date: 2023-01-11 13:11:30,134: program finished at: 2023-01-11-13:11:30
+INFO: file name: test.py.<module>: line 108 date: 2023-01-11 13:19:06,574: program started at: 2023-01-11-13:19:06
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:19:06,575: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:19:06,575: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:19:06,576: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:19:06,576: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:19:06,576: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:19:06,576: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:19:06,576: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:19:06,577: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:19:06,583: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:19:06,585: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:06,587: creating file: Halifax-2023-01-11-13:19:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:06,591: creating file: Toronto-2023-01-11-13:19:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:06,593: creating file: Vancouver-2023-01-11-13:19:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:06,599: creating file: Munich-2023-01-11-13:19:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:06,603: creating file: Sydny-2023-01-11-13:19:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:06,607: creating file: Tehran-2023-01-11-13:19:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:06,609: creating file: Albany-2023-01-11-13:19:06.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:19:06,611: exiting create_files
+INFO: file name: test.py.<module>: line 112 date: 2023-01-11 13:19:06,611: program finished at: 2023-01-11-13:19:06
+INFO: file name: test.py.<module>: line 102 date: 2023-01-11 13:19:48,161: program started at: 2023-01-11-13:19:48
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:19:48,161: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:19:48,162: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:19:48,162: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:19:48,163: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:19:48,163: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:19:48,163: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:19:48,164: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:19:48,165: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:19:48,171: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:19:48,172: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:48,175: creating file: Halifax-2023-01-11-13:19:48.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:48,178: creating file: Toronto-2023-01-11-13:19:48.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:48,180: creating file: Vancouver-2023-01-11-13:19:48.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:48,182: creating file: Munich-2023-01-11-13:19:48.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:48,186: creating file: Sydny-2023-01-11-13:19:48.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:48,190: creating file: Tehran-2023-01-11-13:19:48.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:19:48,192: creating file: Albany-2023-01-11-13:19:48.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:19:48,193: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:19:48,194: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:19:48,194: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 102 date: 2023-01-11 13:22:54,224: program started at: 2023-01-11-13:22:54
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:22:54,225: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:22:54,225: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:22:54,225: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:22:54,226: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:22:54,226: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:22:54,226: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:22:54,226: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:22:54,227: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:22:54,232: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:22:54,232: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:22:54,234: creating file: Halifax-2023-01-11-13:22:54.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:22:54,238: creating file: Toronto-2023-01-11-13:22:54.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:22:54,241: creating file: Vancouver-2023-01-11-13:22:54.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:22:54,247: creating file: Munich-2023-01-11-13:22:54.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:22:54,249: creating file: Sydny-2023-01-11-13:22:54.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:22:54,257: creating file: Tehran-2023-01-11-13:22:54.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:22:54,260: creating file: Albany-2023-01-11-13:22:54.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:22:54,264: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:22:54,264: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:22:54,265: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 102 date: 2023-01-11 13:23:18,439: program started at: 2023-01-11-13:23:18
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:23:18,440: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:23:18,440: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:23:18,441: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:23:18,441: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:23:18,442: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:23:18,442: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:23:18,442: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:23:18,444: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:23:18,449: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:23:18,449: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:23:18,452: creating file: Halifax-2023-01-11-13:23:18.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:23:18,456: creating file: Toronto-2023-01-11-13:23:18.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:23:18,459: creating file: Vancouver-2023-01-11-13:23:18.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:23:18,462: creating file: Munich-2023-01-11-13:23:18.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:23:18,464: creating file: Sydny-2023-01-11-13:23:18.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:23:18,466: creating file: Tehran-2023-01-11-13:23:18.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:23:18,471: creating file: Albany-2023-01-11-13:23:18.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:23:18,474: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:23:18,474: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:23:18,475: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 102 date: 2023-01-11 13:24:52,342: program started at: 2023-01-11-13:24:52
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:24:52,343: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:24:52,343: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:24:52,344: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:24:52,344: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:24:52,345: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:24:52,345: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:24:52,345: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:24:52,346: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:24:52,352: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:24:52,353: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:24:52,356: creating file: Halifax-2023-01-11-13:24:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:24:52,360: creating file: Toronto-2023-01-11-13:24:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:24:52,362: creating file: Vancouver-2023-01-11-13:24:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:24:52,364: creating file: Munich-2023-01-11-13:24:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:24:52,366: creating file: Sydny-2023-01-11-13:24:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:24:52,368: creating file: Tehran-2023-01-11-13:24:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:24:52,373: creating file: Albany-2023-01-11-13:24:52.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:24:52,375: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:24:52,376: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:24:52,376: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 102 date: 2023-01-11 13:25:12,842: program started at: 2023-01-11-13:25:12
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:25:12,843: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:25:12,843: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:25:12,844: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:25:12,844: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:25:12,845: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:25:12,845: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:25:12,846: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:25:12,847: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:25:12,852: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:25:12,853: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:12,856: creating file: Halifax-2023-01-11-13:25:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:12,859: creating file: Toronto-2023-01-11-13:25:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:12,863: creating file: Vancouver-2023-01-11-13:25:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:12,865: creating file: Munich-2023-01-11-13:25:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:12,867: creating file: Sydny-2023-01-11-13:25:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:12,872: creating file: Tehran-2023-01-11-13:25:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:12,876: creating file: Albany-2023-01-11-13:25:12.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:25:12,878: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:25:12,878: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:25:12,879: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 102 date: 2023-01-11 13:25:42,391: program started at: 2023-01-11-13:25:42
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:25:42,391: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:25:42,392: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:25:42,392: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:25:42,393: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:25:42,393: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:25:42,393: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:25:42,394: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:25:42,400: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:25:42,407: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:25:42,408: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:42,410: creating file: Halifax-2023-01-11-13:25:42.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:42,415: creating file: Toronto-2023-01-11-13:25:42.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:42,422: creating file: Vancouver-2023-01-11-13:25:42.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:42,428: creating file: Munich-2023-01-11-13:25:42.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:42,433: creating file: Sydny-2023-01-11-13:25:42.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:42,441: creating file: Tehran-2023-01-11-13:25:42.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:25:42,446: creating file: Albany-2023-01-11-13:25:42.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:25:42,450: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:25:42,451: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:25:42,451: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 103 date: 2023-01-11 13:26:33,983: program started at: 2023-01-11-13:26:33
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:26:33,984: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:26:33,985: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:26:33,985: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:26:33,987: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:26:33,988: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:26:33,988: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:26:33,989: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:26:33,990: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:26:33,996: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:26:33,997: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:26:33,998: creating file: Halifax-2023-01-11-13:26:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:26:34,002: creating file: Toronto-2023-01-11-13:26:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:26:34,007: creating file: Vancouver-2023-01-11-13:26:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:26:34,014: creating file: Munich-2023-01-11-13:26:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:26:34,016: creating file: Sydny-2023-01-11-13:26:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:26:34,023: creating file: Tehran-2023-01-11-13:26:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:26:34,026: creating file: Albany-2023-01-11-13:26:33.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:26:34,030: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:26:34,030: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:26:34,030: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 103 date: 2023-01-11 13:27:45,227: program started at: 2023-01-11-13:27:45
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:27:45,228: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:27:45,228: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:27:45,229: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:27:45,229: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:27:45,230: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:27:45,230: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:27:45,231: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:27:45,232: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:27:45,240: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:27:45,240: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:27:45,242: creating file: Halifax-2023-01-11-13:27:45.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:27:45,244: creating file: Toronto-2023-01-11-13:27:45.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:27:45,247: creating file: Vancouver-2023-01-11-13:27:45.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:27:45,249: creating file: Munich-2023-01-11-13:27:45.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:27:45,251: creating file: Sydny-2023-01-11-13:27:45.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:27:45,255: creating file: Tehran-2023-01-11-13:27:45.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:27:45,258: creating file: Albany-2023-01-11-13:27:45.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:27:45,259: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:27:45,259: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:27:45,260: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:28:46,981: program started at: 2023-01-11-13:28:46
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:28:46,982: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:28:46,982: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:28:46,982: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:28:46,983: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:28:46,983: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:28:46,983: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:28:46,984: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:28:46,985: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:28:46,993: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:28:46,993: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:28:46,995: creating file: Halifax-2023-01-11-13:28:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:28:46,998: creating file: Toronto-2023-01-11-13:28:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:28:47,001: creating file: Vancouver-2023-01-11-13:28:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:28:47,006: creating file: Munich-2023-01-11-13:28:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:28:47,011: creating file: Sydny-2023-01-11-13:28:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:28:47,015: creating file: Tehran-2023-01-11-13:28:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:28:47,019: creating file: Albany-2023-01-11-13:28:46.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:28:47,024: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:28:47,025: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:28:47,026: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 101 date: 2023-01-11 13:28:47,027: exiting archive_file
+INFO: file name: test.py.<module>: line 109 date: 2023-01-11 13:28:47,027: program finished at: 2023-01-11-13:28:46
+INFO: file name: test.py.<module>: line 103 date: 2023-01-11 13:29:15,940: program started at: 2023-01-11-13:29:15
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:29:15,940: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:29:15,941: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:29:15,941: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:29:15,942: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:29:15,942: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:29:15,943: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:29:15,943: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:29:15,944: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:29:15,952: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:29:15,952: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:15,955: creating file: Halifax-2023-01-11-13:29:15.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:15,958: creating file: Toronto-2023-01-11-13:29:15.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:15,961: creating file: Vancouver-2023-01-11-13:29:15.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:15,965: creating file: Munich-2023-01-11-13:29:15.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:15,968: creating file: Sydny-2023-01-11-13:29:15.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:15,972: creating file: Tehran-2023-01-11-13:29:15.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:15,975: creating file: Albany-2023-01-11-13:29:15.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:29:15,976: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:29:15,977: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:29:15,977: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 100 date: 2023-01-11 13:29:15,977: exiting archive_file
+INFO: file name: test.py.<module>: line 108 date: 2023-01-11 13:29:15,977: program finished at: 2023-01-11-13:29:15
+INFO: file name: test.py.<module>: line 103 date: 2023-01-11 13:29:59,851: program started at: 2023-01-11-13:29:59
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:29:59,852: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:29:59,852: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:29:59,853: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:29:59,853: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:29:59,854: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:29:59,855: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:29:59,855: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:29:59,857: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:29:59,863: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:29:59,864: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:59,865: creating file: Halifax-2023-01-11-13:29:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:59,867: creating file: Toronto-2023-01-11-13:29:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:59,870: creating file: Vancouver-2023-01-11-13:29:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:59,875: creating file: Munich-2023-01-11-13:29:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:59,877: creating file: Sydny-2023-01-11-13:29:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:59,879: creating file: Tehran-2023-01-11-13:29:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:29:59,881: creating file: Albany-2023-01-11-13:29:59.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:29:59,883: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:29:59,883: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:29:59,884: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 103 date: 2023-01-11 13:30:30,880: program started at: 2023-01-11-13:30:30
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:30:30,881: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:30:30,882: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:30:30,882: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:30:30,883: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:30:30,883: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:30:30,883: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:30:30,884: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:30:30,885: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:30:30,892: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:30:30,893: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:30:30,895: creating file: Halifax-2023-01-11-13:30:30.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:30:30,897: creating file: Toronto-2023-01-11-13:30:30.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:30:30,899: creating file: Vancouver-2023-01-11-13:30:30.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:30:30,901: creating file: Munich-2023-01-11-13:30:30.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:30:30,906: creating file: Sydny-2023-01-11-13:30:30.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:30:30,909: creating file: Tehran-2023-01-11-13:30:30.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:30:30,911: creating file: Albany-2023-01-11-13:30:30.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:30:30,912: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:30:30,912: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:30:30,913: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:31:28,476: program started at: 2023-01-11-13:31:28
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:31:28,476: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:31:28,477: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:31:28,477: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:31:28,478: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:31:28,479: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:31:28,479: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:31:28,480: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:31:28,481: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:31:28,487: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:31:28,488: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:31:28,491: creating file: Halifax-2023-01-11-13:31:28.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:31:28,494: creating file: Toronto-2023-01-11-13:31:28.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:31:28,496: creating file: Vancouver-2023-01-11-13:31:28.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:31:28,498: creating file: Munich-2023-01-11-13:31:28.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:31:28,501: creating file: Sydny-2023-01-11-13:31:28.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:31:28,504: creating file: Tehran-2023-01-11-13:31:28.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:31:28,508: creating file: Albany-2023-01-11-13:31:28.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:31:28,509: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:31:28,509: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:31:28,510: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 105 date: 2023-01-11 13:32:26,836: program started at: 2023-01-11-13:32:26
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:32:26,837: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:32:26,837: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:32:26,838: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:32:26,838: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:32:26,839: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:32:26,839: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:32:26,840: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:32:26,842: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:32:26,848: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:32:26,848: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:26,850: creating file: Halifax-2023-01-11-13:32:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:26,853: creating file: Toronto-2023-01-11-13:32:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:26,857: creating file: Vancouver-2023-01-11-13:32:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:26,860: creating file: Munich-2023-01-11-13:32:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:26,863: creating file: Sydny-2023-01-11-13:32:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:26,867: creating file: Tehran-2023-01-11-13:32:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:26,870: creating file: Albany-2023-01-11-13:32:26.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:32:26,874: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:32:26,874: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:32:26,875: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 105 date: 2023-01-11 13:32:37,416: program started at: 2023-01-11-13:32:37
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:32:37,417: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:32:37,417: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:32:37,418: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:32:37,418: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:32:37,419: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:32:37,419: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:32:37,420: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:32:37,423: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:32:37,430: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:32:37,430: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:37,431: creating file: Halifax-2023-01-11-13:32:37.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:37,434: creating file: Toronto-2023-01-11-13:32:37.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:37,436: creating file: Vancouver-2023-01-11-13:32:37.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:37,440: creating file: Munich-2023-01-11-13:32:37.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:37,443: creating file: Sydny-2023-01-11-13:32:37.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:37,446: creating file: Tehran-2023-01-11-13:32:37.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:37,448: creating file: Albany-2023-01-11-13:32:37.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:32:37,449: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:32:37,449: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:32:37,450: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 105 date: 2023-01-11 13:32:50,291: program started at: 2023-01-11-13:32:50
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:32:50,292: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:32:50,292: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:32:50,293: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:32:50,293: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:32:50,293: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:32:50,294: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:32:50,294: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:32:50,296: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:32:50,301: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:32:50,302: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:50,303: creating file: Halifax-2023-01-11-13:32:50.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:50,308: creating file: Toronto-2023-01-11-13:32:50.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:50,311: creating file: Vancouver-2023-01-11-13:32:50.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:50,313: creating file: Munich-2023-01-11-13:32:50.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:50,316: creating file: Sydny-2023-01-11-13:32:50.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:50,318: creating file: Tehran-2023-01-11-13:32:50.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:32:50,321: creating file: Albany-2023-01-11-13:32:50.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:32:50,324: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:32:50,325: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:32:50,325: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 105 date: 2023-01-11 13:33:02,729: program started at: 2023-01-11-13:33:02
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:33:02,730: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:33:02,731: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:33:02,731: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:33:02,731: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:33:02,732: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:33:02,732: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:33:02,733: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:33:02,734: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:33:02,742: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:33:02,743: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:02,744: creating file: Halifax-2023-01-11-13:33:02.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:02,746: creating file: Toronto-2023-01-11-13:33:02.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:02,749: creating file: Vancouver-2023-01-11-13:33:02.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:02,751: creating file: Munich-2023-01-11-13:33:02.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:02,753: creating file: Sydny-2023-01-11-13:33:02.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:02,758: creating file: Tehran-2023-01-11-13:33:02.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:02,760: creating file: Albany-2023-01-11-13:33:02.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:33:02,762: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:33:02,762: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:33:02,762: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 102 date: 2023-01-11 13:33:02,763: exiting archive_file
+INFO: file name: test.py.<module>: line 110 date: 2023-01-11 13:33:02,763: program finished at: 2023-01-11-13:33:02
+INFO: file name: test.py.<module>: line 105 date: 2023-01-11 13:33:53,409: program started at: 2023-01-11-13:33:53
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:33:53,409: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:33:53,410: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:33:53,410: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:33:53,411: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:33:53,411: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:33:53,411: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:33:53,412: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:33:53,413: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:33:53,418: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:33:53,418: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:53,420: creating file: Halifax-2023-01-11-13:33:53.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:53,423: creating file: Toronto-2023-01-11-13:33:53.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:53,427: creating file: Vancouver-2023-01-11-13:33:53.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:53,429: creating file: Munich-2023-01-11-13:33:53.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:53,431: creating file: Sydny-2023-01-11-13:33:53.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:53,433: creating file: Tehran-2023-01-11-13:33:53.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:33:53,436: creating file: Albany-2023-01-11-13:33:53.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:33:53,437: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:33:53,438: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:33:53,438: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 102 date: 2023-01-11 13:33:53,439: exiting archive_file
+INFO: file name: test.py.<module>: line 110 date: 2023-01-11 13:33:53,440: program finished at: 2023-01-11-13:33:53
+INFO: file name: test.py.<module>: line 103 date: 2023-01-11 13:34:26,438: program started at: 2023-01-11-13:34:26
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:34:26,439: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:34:26,440: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:34:26,441: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:34:26,442: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:34:26,442: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:34:26,443: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:34:26,444: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:34:26,445: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:34:26,451: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:34:26,451: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:34:26,453: creating file: Halifax-2023-01-11-13:34:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:34:26,456: creating file: Toronto-2023-01-11-13:34:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:34:26,460: creating file: Vancouver-2023-01-11-13:34:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:34:26,462: creating file: Munich-2023-01-11-13:34:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:34:26,464: creating file: Sydny-2023-01-11-13:34:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:34:26,467: creating file: Tehran-2023-01-11-13:34:26.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:34:26,469: creating file: Albany-2023-01-11-13:34:26.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:34:26,470: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:34:26,470: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:34:26,471: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:35:32,862: program started at: 2023-01-11-13:35:32
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:35:32,862: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:35:32,863: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:35:32,864: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:35:32,864: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:35:32,865: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:35:32,865: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:35:32,866: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:35:32,867: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:35:32,872: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:35:32,873: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:35:32,876: creating file: Halifax-2023-01-11-13:35:32.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:35:32,879: creating file: Toronto-2023-01-11-13:35:32.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:35:32,881: creating file: Vancouver-2023-01-11-13:35:32.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:35:32,883: creating file: Munich-2023-01-11-13:35:32.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:35:32,886: creating file: Sydny-2023-01-11-13:35:32.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:35:32,888: creating file: Tehran-2023-01-11-13:35:32.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:35:32,892: creating file: Albany-2023-01-11-13:35:32.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:35:32,894: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:35:32,894: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:35:32,895: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 101 date: 2023-01-11 13:35:32,895: exiting archive_file
+INFO: file name: test.py.<module>: line 109 date: 2023-01-11 13:35:32,896: program finished at: 2023-01-11-13:35:32
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:37:04,394: program started at: 2023-01-11-13:37:04
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:37:04,395: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:37:04,395: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:37:04,395: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:37:04,396: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:37:04,396: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:37:04,397: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:37:04,397: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:37:04,398: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:37:04,403: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:37:04,403: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:04,405: creating file: Halifax-2023-01-11-13:37:04.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:04,409: creating file: Toronto-2023-01-11-13:37:04.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:04,412: creating file: Vancouver-2023-01-11-13:37:04.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:04,415: creating file: Munich-2023-01-11-13:37:04.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:04,417: creating file: Sydny-2023-01-11-13:37:04.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:04,421: creating file: Tehran-2023-01-11-13:37:04.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:04,425: creating file: Albany-2023-01-11-13:37:04.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:37:04,428: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:37:04,428: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:37:04,429: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 101 date: 2023-01-11 13:37:04,429: exiting archive_file
+INFO: file name: test.py.<module>: line 109 date: 2023-01-11 13:37:04,429: program finished at: 2023-01-11-13:37:04
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:37:12,909: program started at: 2023-01-11-13:37:12
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:37:12,910: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:37:12,910: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:37:12,911: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:37:12,912: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:37:12,912: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:37:12,912: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:37:12,913: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:37:12,914: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:37:12,919: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:37:12,920: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:12,922: creating file: Halifax-2023-01-11-13:37:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:12,926: creating file: Toronto-2023-01-11-13:37:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:12,929: creating file: Vancouver-2023-01-11-13:37:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:12,931: creating file: Munich-2023-01-11-13:37:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:12,933: creating file: Sydny-2023-01-11-13:37:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:12,935: creating file: Tehran-2023-01-11-13:37:12.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:12,937: creating file: Albany-2023-01-11-13:37:12.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:37:12,939: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:37:12,940: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:37:12,940: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:37:52,039: program started at: 2023-01-11-13:37:52
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:37:52,039: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:37:52,040: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:37:52,040: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:37:52,041: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:37:52,042: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:37:52,042: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:37:52,043: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:37:52,044: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:37:52,049: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:37:52,050: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:52,051: creating file: Halifax-2023-01-11-13:37:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:52,054: creating file: Toronto-2023-01-11-13:37:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:52,057: creating file: Vancouver-2023-01-11-13:37:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:52,061: creating file: Munich-2023-01-11-13:37:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:52,064: creating file: Sydny-2023-01-11-13:37:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:52,066: creating file: Tehran-2023-01-11-13:37:52.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:37:52,068: creating file: Albany-2023-01-11-13:37:52.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:37:52,069: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:37:52,070: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:37:52,070: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:39:55,628: program started at: 2023-01-11-13:39:55
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:39:55,629: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:39:55,629: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:39:55,630: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:39:55,630: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:39:55,631: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:39:55,631: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:39:55,632: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:39:55,633: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:39:55,639: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:39:55,640: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:39:55,642: creating file: Halifax-2023-01-11-13:39:55.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:39:55,644: creating file: Toronto-2023-01-11-13:39:55.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:39:55,646: creating file: Vancouver-2023-01-11-13:39:55.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:39:55,649: creating file: Munich-2023-01-11-13:39:55.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:39:55,653: creating file: Sydny-2023-01-11-13:39:55.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:39:55,657: creating file: Tehran-2023-01-11-13:39:55.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:39:55,660: creating file: Albany-2023-01-11-13:39:55.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:39:55,662: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:39:55,663: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:39:55,663: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 101 date: 2023-01-11 13:39:55,664: exiting archive_file
+INFO: file name: test.py.<module>: line 109 date: 2023-01-11 13:39:55,664: program finished at: 2023-01-11-13:39:55
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:41:33,418: program started at: 2023-01-11-13:41:33
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:41:33,419: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:41:33,420: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:41:33,420: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:41:33,421: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:41:33,422: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:41:33,422: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:41:33,423: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:41:33,430: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:41:33,436: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:41:33,437: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:41:33,439: creating file: Halifax-2023-01-11-13:41:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:41:33,447: creating file: Toronto-2023-01-11-13:41:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:41:33,452: creating file: Vancouver-2023-01-11-13:41:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:41:33,458: creating file: Munich-2023-01-11-13:41:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:41:33,465: creating file: Sydny-2023-01-11-13:41:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:41:33,470: creating file: Tehran-2023-01-11-13:41:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:41:33,478: creating file: Albany-2023-01-11-13:41:33.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:41:33,483: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:41:33,483: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:41:33,484: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:47:24,950: program started at: 2023-01-11-13:47:24
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:47:24,951: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:47:24,952: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:47:24,952: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:47:24,953: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:47:24,953: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:47:24,954: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:47:24,954: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:47:24,956: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:47:24,964: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:47:24,964: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:24,966: creating file: Halifax-2023-01-11-13:47:24.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:24,968: creating file: Toronto-2023-01-11-13:47:24.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:24,970: creating file: Vancouver-2023-01-11-13:47:24.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:24,977: creating file: Munich-2023-01-11-13:47:24.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:24,980: creating file: Sydny-2023-01-11-13:47:24.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:24,986: creating file: Tehran-2023-01-11-13:47:24.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:24,988: creating file: Albany-2023-01-11-13:47:24.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:47:24,993: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:47:24,994: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:47:24,995: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:47:46,786: program started at: 2023-01-11-13:47:46
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:47:46,786: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:47:46,787: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:47:46,787: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:47:46,788: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:47:46,789: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:47:46,789: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:47:46,789: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:47:46,792: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:47:46,798: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:47:46,799: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:46,801: creating file: Halifax-2023-01-11-13:47:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:46,803: creating file: Toronto-2023-01-11-13:47:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:46,805: creating file: Vancouver-2023-01-11-13:47:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:46,809: creating file: Munich-2023-01-11-13:47:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:46,813: creating file: Sydny-2023-01-11-13:47:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:46,815: creating file: Tehran-2023-01-11-13:47:46.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:47:46,817: creating file: Albany-2023-01-11-13:47:46.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:47:46,818: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:47:46,819: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:47:46,819: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 101 date: 2023-01-11 13:47:46,820: exiting archive_file
+INFO: file name: test.py.<module>: line 109 date: 2023-01-11 13:47:46,820: program finished at: 2023-01-11-13:47:46
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:48:59,203: program started at: 2023-01-11-13:48:59
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:48:59,203: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:48:59,204: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:48:59,204: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:48:59,205: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:48:59,205: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:48:59,205: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:48:59,206: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:48:59,207: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:48:59,215: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:48:59,215: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:48:59,217: creating file: Halifax-2023-01-11-13:48:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:48:59,219: creating file: Toronto-2023-01-11-13:48:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:48:59,221: creating file: Vancouver-2023-01-11-13:48:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:48:59,223: creating file: Munich-2023-01-11-13:48:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:48:59,226: creating file: Sydny-2023-01-11-13:48:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:48:59,229: creating file: Tehran-2023-01-11-13:48:59.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:48:59,231: creating file: Albany-2023-01-11-13:48:59.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:48:59,233: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:48:59,233: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:48:59,233: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 101 date: 2023-01-11 13:48:59,239: exiting archive_file
+INFO: file name: test.py.<module>: line 109 date: 2023-01-11 13:48:59,239: program finished at: 2023-01-11-13:48:59
+INFO: file name: test.py.<module>: line 104 date: 2023-01-11 13:49:33,033: program started at: 2023-01-11-13:49:33
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:49:33,034: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:49:33,034: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:49:33,034: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:49:33,035: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:49:33,035: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:49:33,036: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:49:33,036: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:49:33,038: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:49:33,047: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:49:33,047: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:49:33,049: creating file: Halifax-2023-01-11-13:49:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:49:33,052: creating file: Toronto-2023-01-11-13:49:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:49:33,054: creating file: Vancouver-2023-01-11-13:49:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:49:33,058: creating file: Munich-2023-01-11-13:49:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:49:33,063: creating file: Sydny-2023-01-11-13:49:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:49:33,066: creating file: Tehran-2023-01-11-13:49:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:49:33,068: creating file: Albany-2023-01-11-13:49:33.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:49:33,070: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:49:33,070: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:49:33,071: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 101 date: 2023-01-11 13:49:33,074: exiting archive_file
+INFO: file name: test.py.<module>: line 109 date: 2023-01-11 13:49:33,074: program finished at: 2023-01-11-13:49:33
+INFO: file name: test.py.<module>: line 103 date: 2023-01-11 13:50:33,051: program started at: 2023-01-11-13:50:33
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-11 13:50:33,051: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-11 13:50:33,052: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-11 13:50:33,052: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-11 13:50:33,053: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-11 13:50:33,053: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-11 13:50:33,054: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-11 13:50:33,054: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-11 13:50:33,055: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-11 13:50:33,062: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-11 13:50:33,062: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:50:33,064: creating file: Halifax-2023-01-11-13:50:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:50:33,066: creating file: Toronto-2023-01-11-13:50:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:50:33,069: creating file: Vancouver-2023-01-11-13:50:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:50:33,071: creating file: Munich-2023-01-11-13:50:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:50:33,073: creating file: Sydny-2023-01-11-13:50:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:50:33,075: creating file: Tehran-2023-01-11-13:50:33.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-11 13:50:33,079: creating file: Albany-2023-01-11-13:50:33.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-11 13:50:33,081: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-11 13:50:33,081: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-11 13:50:33,082: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 99 date: 2023-01-11 13:50:33,084: file archived
+INFO: file name: test.py.archive_file: line 100 date: 2023-01-11 13:50:33,084: exiting archive_file
+INFO: file name: test.py.<module>: line 108 date: 2023-01-11 13:50:33,084: program finished at: 2023-01-11-13:50:33
+INFO: file name: test.py.<module>: line 103 date: 2023-01-12 15:56:06,932: program started at: 2023-01-12-15:56:06
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-12 15:56:06,932: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-12 15:56:06,933: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-12 15:56:06,934: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-12 15:56:06,935: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-12 15:56:06,936: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-12 15:56:06,936: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-12 15:56:06,937: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-12 15:56:06,943: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-12 15:56:06,949: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-12 15:56:06,950: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:56:06,954: creating file: Halifax-2023-01-12-15:56:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:56:06,961: creating file: Toronto-2023-01-12-15:56:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:56:06,966: creating file: Vancouver-2023-01-12-15:56:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:56:06,975: creating file: Munich-2023-01-12-15:56:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:56:06,980: creating file: Sydny-2023-01-12-15:56:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:56:06,987: creating file: Tehran-2023-01-12-15:56:06.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:56:06,994: creating file: Albany-2023-01-12-15:56:06.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-12 15:56:06,998: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-12 15:56:06,998: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-12 15:56:06,998: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 99 date: 2023-01-12 15:56:07,005: file archived
+INFO: file name: test.py.archive_file: line 100 date: 2023-01-12 15:56:07,006: exiting archive_file
+INFO: file name: test.py.<module>: line 108 date: 2023-01-12 15:56:07,006: program finished at: 2023-01-12-15:56:06
+INFO: file name: test.py.<module>: line 103 date: 2023-01-12 15:57:56,654: program started at: 2023-01-12-15:57:56
+INFO: file name: test.py.check_directory: line 30 date: 2023-01-12 15:57:56,655: entering check_directory
+INFO: file name: test.py.check_directory: line 31 date: 2023-01-12 15:57:56,655: my current directory is: /mnt/c/Users/eliasm1/Documents/learn/python
+INFO: file name: test.py.check_directory: line 32 date: 2023-01-12 15:57:56,656: Required directory is: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.check_directory: line 39 date: 2023-01-12 15:57:56,656: all OK, you are in right directory: /mnt/c/Users/eliasm1/Documents/learn/python 
+
+INFO: file name: test.py.read_file: line 45 date: 2023-01-12 15:57:56,657: entering read_file
+INFO: file name: test.py.read_file: line 47 date: 2023-01-12 15:57:56,658: reading file: /mnt/c/Users/eliasm1/Documents/learn//cities.txt 
+
+INFO: file name: test.py.read_file: line 55 date: 2023-01-12 15:57:56,659: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.read_file: line 60 date: 2023-01-12 15:57:56,662: Data were successfully written into /mnt/c/Users/eliasm1/Documents/learn/python/output/output_python.txt
+INFO: file name: test.py.create_files: line 70 date: 2023-01-12 15:57:56,668: entering create_files
+INFO: file name: test.py.create_files: line 77 date: 2023-01-12 15:57:56,669: Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:57:56,670: creating file: Halifax-2023-01-12-15:57:56.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:57:56,672: creating file: Toronto-2023-01-12-15:57:56.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:57:56,674: creating file: Vancouver-2023-01-12-15:57:56.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:57:56,679: creating file: Munich-2023-01-12-15:57:56.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:57:56,682: creating file: Sydny-2023-01-12-15:57:56.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:57:56,684: creating file: Tehran-2023-01-12-15:57:56.txt
+INFO: file name: test.py.create_files: line 83 date: 2023-01-12 15:57:56,686: creating file: Albany-2023-01-12-15:57:56.txt
+INFO: file name: test.py.create_files: line 87 date: 2023-01-12 15:57:56,688: exiting create_files
+INFO: file name: test.py.archive_file: line 90 date: 2023-01-12 15:57:56,688: entering archive_file
+INFO: file name: test.py.archive_file: line 97 date: 2023-01-12 15:57:56,688: Directory /mnt/c/Users/eliasm1/Documents/learn/python/archive exists
+INFO: file name: test.py.archive_file: line 99 date: 2023-01-12 15:57:56,690: file archived
+INFO: file name: test.py.archive_file: line 100 date: 2023-01-12 15:57:56,691: exiting archive_file
+INFO: file name: test.py.<module>: line 108 date: 2023-01-12 15:57:56,691: program finished at: 2023-01-12-15:57:56

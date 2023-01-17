@@ -1,0 +1,11 @@
+INFO: || file name: db.py.create_connection: || line 24 date: 2023-01-12 15:45:12,216: || Database created, version: 2.6.0
+INFO: || file name: db.py.create_connection: || line 25 date: 2023-01-12 15:45:12,217: || DB file mySQLite3.db
+INFO: || file name: db.py.main: || line 60 date: 2023-01-12 15:45:12,218: || Testing connection: <sqlite3.Connection object at 0x7f33ec893e40>
+INFO: || file name: db.py.main: || line 63 date: 2023-01-12 15:45:12,218: || <sqlite3.Connection object at 0x7f33ec893e40>
+INFO: || file name: db.py.main: || line 65 date: 2023-01-12 15:45:12,226: || Table events has been created
+INFO: || file name: db.py.create_connection: || line 24 date: 2023-01-12 15:45:27,229: || Database created, version: 2.6.0
+INFO: || file name: db.py.create_connection: || line 25 date: 2023-01-12 15:45:27,229: || DB file mySQLite3.db
+INFO: || file name: file_parser.py.connect_to_db: || line 12 date: 2023-01-12 15:45:27,230: || status: <function create_connection at 0x7f5e54763dc0>
+INFO: || file name: file_parser.py.insert_logs: || line 26 date: 2023-01-12 15:45:27,230: || entering insert_logs
+INFO: || file name: file_parser.py.insert_logs: || line 33 date: 2023-01-12 15:45:27,230: || Directory /mnt/c/Users/eliasm1/Documents/learn/python/output exists
+INFO: || file name: file_parser.py.insert_logs: || line 45 date: 2023-01-12 15:45:27,231: || exiting insert_logs

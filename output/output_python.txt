@@ -1,0 +1,298 @@
+
+date: 2023-01-11-13:19:06 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:19:48 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:22:54 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:23:18 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:24:52 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:25:12 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:25:42 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:26:33 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:27:45 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:28:46 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:29:15 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:29:59 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:30:30 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:31:28 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:32:26 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:32:37 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:32:50 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:33:02 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:33:53 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:34:26 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:35:32 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:37:04 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:37:12 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:37:52 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:39:55 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:41:33 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:47:24 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:47:46 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:48:59 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:49:33 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-11-13:50:33 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-12-15:56:06 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
+date: 2023-01-12-15:57:56 file name: /mnt/c/Users/eliasm1/Documents/learn//cities.txt
+Halifax
+Toronto
+Vancouver
+Munich
+Sydny
+Tehran
+Albany
+file footer
