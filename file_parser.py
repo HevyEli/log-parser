@@ -7,7 +7,10 @@ from datetime import datetime
 from db import *
 
 def connect_to_db():
+    
         try:
+            # create_connection(sqlite3_db_file)
+            sqlite3_db_file="mySQLite3.db"
             create_connection(sqlite3_db_file)
             logger.info(f"status: {create_connection}")
             return True
@@ -24,7 +27,9 @@ def connect_to_db():
 
 def insert_logs():
     logger.info(f"entering {insert_logs.__name__}")
-    # events = []
+    now = datetime.now()
+    event_date = now.strftime("%d/%m/%Y %H:%M:%S")
+    events = []
     """ check if output dir exists if not create directory"""
     dir_isExist = os.path.exists(output_files_directory)
     if dir_isExist != True:
@@ -32,14 +37,18 @@ def insert_logs():
 
     conn = create_connection(sqlite3_db_file)
     cursor = conn.cursor()
-    insert_statement = "insert into events (event_date, level, file_name, event_message) values (?, ?, ?, ?)"
+    insert_statement = "insert into events (event_date, level, file_name, event_message) values (:event_date, :level, :file_name, :event_message);"
 
     with open(read_file, mode='r') as input_file:
         for line in input_file:
             event_list = line.strip().split(" || ")
+            
             if len(event_list) == 4:
-                level, file_name, _, event_message = event_list
-                cursor.execute(insert_statement, (datetime.now(), level, file_name, event_message))
+                level, file_name, _, event_message = event_list            
+                cursor.execute(insert_statement, {"event_date":event_date, 
+                                                   "level": level.replace(':', ''), 
+                                                   "file_name": file_name, 
+                                                   "event_message":event_message})
     conn.commit()
     cursor.close()
     conn.close()
@@ -47,10 +56,9 @@ def insert_logs():
 
 
 
+
 if __name__ == '__main__':
 
-    current_time = datetime.now()
-    datetime = datetime.now().strftime('%Y-%m-%d-%H:%M:%S')
     #windows
     read_file = (r"C:\Users\eliasm1\Documents\learn\python\log-parser\logs\sqllite-python.log")
     output_files_directory = (r"C:\Users\eliasm1\Documents\learn\python\log-parser")
