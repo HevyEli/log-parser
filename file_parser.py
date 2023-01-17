@@ -33,10 +33,16 @@ def insert_logs():
     """ check if output dir exists if not create directory"""
     dir_isExist = os.path.exists(output_files_directory)
     if dir_isExist != True:
+        logger.info(f"Directory exists: {dir_isExist}")
         os.mkdir(output_files_directory)
+    else:
+        logger.info(f"Directory {output_files_directory} exists: {dir_isExist}")
+        
 
     conn = create_connection(sqlite3_db_file)
+    
     cursor = conn.cursor()
+    logger.info(f"Connection status: {conn}")
     insert_statement = "insert into events (event_date, level, file_name, event_message) values (:event_date, :level, :file_name, :event_message);"
 
     with open(read_file, mode='r') as input_file:
@@ -60,15 +66,25 @@ def insert_logs():
 if __name__ == '__main__':
 
     #windows
-    read_file = (r"C:\Users\eliasm1\Documents\learn\python\log-parser\logs\sqllite-python.log")
-    output_files_directory = (r"C:\Users\eliasm1\Documents\learn\python\log-parser")
-    split_out = (r"C:\Users\eliasm1\Documents\learn\python\log-parser\split_out.txt")
+    read_file = (r"logs\sqllite-python.log")
+    output_files_directory = os.getcwd()
+    split_out = (r"output\split_out.txt")
 
 
     #linux
     # read_file = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/logs/sqllite-python.log"
     # output_files_directory = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/output"
     # split_out = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/output/split_out.txt"
+
+    print(f"checking variables:")
+    print(f"""
+                    read file: {read_file}
+                    output directory: {output_files_directory}
+                    split file: {split_out}"
+
+    """
+
+    )
 
     connect_to_db()
     insert_logs()
