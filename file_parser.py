@@ -7,7 +7,10 @@ from datetime import datetime
 from db import *
 
 def connect_to_db():
+    
         try:
+            # create_connection(sqlite3_db_file)
+            sqlite3_db_file="mySQLite3.db"
             create_connection(sqlite3_db_file)
             logger.info(f"status: {create_connection}")
             return True
@@ -23,49 +26,49 @@ def connect_to_db():
 
 
 def insert_logs():
-    events = []
     logger.info(f"entering {insert_logs.__name__}")
+    now = datetime.now()
+    event_date = now.strftime("%d/%m/%Y %H:%M:%S")
+    events = []
     """ check if output dir exists if not create directory"""
     dir_isExist = os.path.exists(output_files_directory)
     if dir_isExist != True:
-        logger.info(f"Directory: {output_files_directory} does not exist, will be created")
+        logger.info(f"Directory exists: {dir_isExist}")
         os.mkdir(output_files_directory)
-    else: 
-        logger.info(f"Directory {output_files_directory} exists")
+    else:
+        logger.info(f"Directory {output_files_directory} exists: {dir_isExist}")
+        
+
+    conn = create_connection(sqlite3_db_file)
+    
+    cursor = conn.cursor()
+    logger.info(f"Connection status: {conn}")
+    insert_statement = "insert into events (event_date, level, file_name, event_message) values (:event_date, :level, :file_name, :event_message);"
 
     with open(read_file, mode='r') as input_file:
-        logger.info(f"Reading file {read_file}")
         for line in input_file:
-                # logger.info(line.strip().split(" || "))
-                with open(split_out, mode='a') as output_file:
-                    # event_list = line.split(": ||")
-                    event_list = line.split(": || ", 4 )
-                    events = (f"{event_list}\n")
-                    output_file.write(f"{events}")
-                    rec = events.split(', ')
-                    print(rec)
-                    """ inserting records into DB """
-                    conn = create_connection(sqlite3_db_file)
-                    insert_statement = " insert into events ( level, file_name, event_message ) values ('$s', '$s', '$s') "
-                    vals = rec
-                    conn.execute(insert_statement, vals[0], vals[1], vals[3])
-                    #conn = cursor.execute("select * from events")
-                    conn.commit()
-                    conn.close()
-
-                    # input_file.close()
-                    return events
+            event_list = line.strip().split(" || ")
+            
+            if len(event_list) == 4:
+                level, file_name, _, event_message = event_list            
+                cursor.execute(insert_statement, {"event_date":event_date, 
+                                                   "level": level.replace(':', ''), 
+                                                   "file_name": file_name, 
+                                                   "event_message":event_message})
+    conn.commit()
+    cursor.close()
+    conn.close()
     logger.info(f"exiting {insert_logs.__name__}")
+
+
 
 
 if __name__ == '__main__':
 
-    current_time = datetime.now()
-    datetime = datetime.now().strftime('%Y-%m-%d-%H:%M:%S')
     #windows
-    read_file = (r"C:\Users\eliasm1\Documents\learn\python\log-parser\logs\sqllite-python.log")
-    output_files_directory = (r"C:\Users\eliasm1\Documents\learn\python\log-parser")
-    split_out = (r"C:\Users\eliasm1\Documents\learn\python\log-parser\split_out.txt")
+    read_file = (r"logs\sqllite-python.log")
+    output_files_directory = os.getcwd()
+    split_out = (r"output\split_out.txt")
 
 
     #linux
@@ -73,8 +76,15 @@ if __name__ == '__main__':
     # output_files_directory = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/output"
     # split_out = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/output/split_out.txt"
 
+    print(f"checking variables:")
+    print(f"""
+                    read file: {read_file}
+                    output directory: {output_files_directory}
+                    split file: {split_out}"
+
+    """
+
+    )
+
     connect_to_db()
     insert_logs()
-
-    dada = insert_logs()
-    # print(f"lala {dada[]}")
