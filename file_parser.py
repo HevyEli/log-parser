@@ -45,6 +45,12 @@ def insert_logs():
     logger.info(f"Connection status: {conn}")
     insert_statement = "insert into events (event_date, level, file_name, event_message) values (:event_date, :level, :file_name, :event_message);"
 
+    for root, dirs, files in os.walk(input_dir):
+        for name in files:
+            print (f"file: {os.path.join(root, name)}")
+        # if filename.is_file():
+        #     print (filename)
+
     with open(read_file, mode='r') as input_file:
         for line in input_file:
             event_list = line.strip().split(" || ")
@@ -62,16 +68,17 @@ def insert_logs():
 
 
 
-
 if __name__ == '__main__':
 
     #windows
+    input_dir =(r"C:\Users\eliasm1\Documents\learn\python\log-parser\input")
     read_file = (r"logs\sqllite-python.log")
     output_files_directory = os.getcwd()
     split_out = (r"output\split_out.txt")
 
 
     #linux
+    input_dir = "input/"
     # read_file = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/logs/sqllite-python.log"
     # output_files_directory = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/output"
     # split_out = "/mnt/c/Users/eliasm1/Documents/learn/python/log-parser/output/split_out.txt"
